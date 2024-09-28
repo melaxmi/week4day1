@@ -1,0 +1,5 @@
+Q1: What is Java?
+A1: Java is a high-level, class-based, object-oriented programming language.
+
+Q2: What is the JVM?
+A2: JVM stands for Java Virtual Machine, which is an engine that provides a runtime environment to drive Java applications.
